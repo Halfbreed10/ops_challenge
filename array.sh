@@ -4,6 +4,7 @@
 # Author:                       David Morgan
 # Date of latest revision:      11/21/2023
 # Purpose:                      Create array using four directories
+# Sources:                      https://chat.openai.com/c/b2607c7d-abb0-4b6e-ad66-f4d74418b13a
 
 # Declaration of variables
 
